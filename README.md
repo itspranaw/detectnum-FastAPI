@@ -28,7 +28,7 @@ A web application that uses machine learning to recognize handwritten digits. Th
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/itspranaw/detectnum-fastapi.git
+git clone https://github.com/itspranaw/detectnum-FastAPI.git
 cd mnist-classifier
 ```
 
